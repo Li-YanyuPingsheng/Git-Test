@@ -7,5 +7,6 @@ package li;
 public class one {
     public static void main(String[] args) {
         System.out.println("这是首次");
+        System.out.println("enenen");
     }
 }
